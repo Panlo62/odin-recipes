@@ -1,2 +1,2 @@
 # odin-recipes
-first project learning from TOP
+First project learning from TOP
